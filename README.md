@@ -1,16 +1,18 @@
-# Hey, I'm Obsidian
+# v0id-lab
 
-**Automation Engineer** building tools that save people time and money.
+**Automation Engineering & AI Integration**
 
-## What I Build
+Building tools that save people time and money.
 
-**Web Scrapers** -- Extract data from any website. E-commerce, social media, job boards, real estate. Clean CSV/JSON/Excel output.
+## Services
+
+**Web Scraping** -- Extract data from any website. E-commerce, social media, job boards, real estate. Clean CSV/JSON/Excel output.
 
 **Custom Bots** -- Discord & Telegram bots for moderation, alerts, trading signals, community management.
 
 **AI Integration** -- ChatGPT/Claude powered chatbots, document processing, RAG systems, automated workflows.
 
-**Automation Scripts** -- If you do it manually and repeatedly, I can automate it. Social media, email, reports, data sync.
+**Automation** -- If you do it manually and repeatedly, I can automate it. Social media, email, reports, data sync.
 
 **Data Processing** -- Excel/Sheets automation, PDF extraction, data cleanup, dashboards.
 
@@ -21,9 +23,7 @@ Python | FastAPI | Playwright | Selenium | pandas | discord.py
 OpenAI API | Claude API | LangChain | PostgreSQL | Docker
 ```
 
-## Hire Me
-
-Available for freelance work. Fast turnaround, clean code, 30 days bug fixes included.
+## Pricing
 
 | Service | Price |
 |---|---|
